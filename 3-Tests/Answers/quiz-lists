@@ -1,0 +1,19 @@
+Question 1:
+What method here does not add one or more elements to a list?
+# add() *
+
+Question 2:
+How would you access the first element in the list numbers = [1,2,3]?
+# numbers[0] *
+
+Question 3:
+If we have a list numbers = [1,2,3] what would the result of numbers.pop(4) be?
+# IndexError *
+
+Question 4:
+Which of the following is False about lists:
+# The index starts at 1 *
+
+
+
+
