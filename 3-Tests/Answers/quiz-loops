@@ -31,3 +31,17 @@ while i <= 5:
   i =+ 1
   print(i)
 # Prints 1 forever *
+
+Question 7:
+What can we do to get out of the infinite loop below?
+#this code runs forever...
+x = 0
+while x != 11:
+  x += 2
+  print(x)
+# Change condition x != 10
+# Change condition x < 11
+# Add if x==10:
+         break
+# Use Ctrl+C to kill the program
+# All of the above mentioned *
