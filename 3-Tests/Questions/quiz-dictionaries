@@ -1,0 +1,19 @@
+Question 1:
+What is the difference between lists and dictionaries?
+# Dictionaries are objects, lists are not
+# Dictionaries are key value pairs and lists are an ordered list of elements
+# Dictionaries start at inde 1, lists do not
+
+Question 2:
+What is output if you try to access a key in a dictionary using the .get()
+method and it does not exist?
+# None
+# KeyError
+# {}
+
+Question 3:
+What is output if you try to access a key in a dictionary using the bracket
+notation []  and it does not exist?
+# None
+# KeyError
+# {}
