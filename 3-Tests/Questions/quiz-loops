@@ -34,3 +34,14 @@ while i < 5:
 # Prints 1,2,3,4 and then exits
 # Prints 1,2,4 and then exits
 # Prints 1 forever
+
+Question 6:
+What does the following loop do?
+# print 1 to 5
+i = 0
+while i <= 5:
+  i =+ 1
+  print(i)
+# Prints 1,2,3,4,5 then exits
+# Prints 0,1,2,3,4,5 then exits
+# Prints 1 forever
