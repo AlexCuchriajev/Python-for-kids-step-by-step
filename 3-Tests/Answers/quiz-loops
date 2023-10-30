@@ -23,3 +23,11 @@ while i < 5:
   print(i)
 # Prints 1 forever *
 
+Question 6:
+What does the following loop do?
+# print 1 to 5
+i = 0
+while i <= 5:
+  i =+ 1
+  print(i)
+# Prints 1 forever *
