@@ -1,0 +1,11 @@
+Question 1:
+What is the default directory upon opening a new Command Prompt window?
+# C:\
+# C:\Users\username
+# C:\Users
+
+Question 2:
+What is the command to go up one level to the parent directory?
+# cd ..
+# cd ./
+# cd ~/
