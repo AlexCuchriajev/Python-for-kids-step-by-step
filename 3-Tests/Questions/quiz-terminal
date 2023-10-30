@@ -1,0 +1,44 @@
+Question 1:
+What is the default directory upon opening a new terminal window?
+# / (root)
+# ~ (home)
+# /Users
+
+Question 2:
+What is the command to go up one level to the parent directory?
+# cd ..
+# cd ~/
+# cd .
+# cd ...
+
+Question 3:
+What is the difference between ls  and pwd ?
+# Use ls to list content of a current directory, use pwd to print working directory
+# Use ls to get the current path, use pwd to get list of content of a current directory
+
+Question 4:
+What are the commands to create new file and new directory?
+# touch new_file_name
+  mkdir new_directory_name
+# mk new_file_name
+  mkdir new_directory_name
+# mv new_file_name
+  mkdir new_directory_name
+# make new_file_name
+  mkdir new_directory_name
+
+Question 5:
+What does the following command do?
+# mv test.txt ../testas.txt
+# renames test.txt to testas.txt
+# moves test.txt to parent directory and renames it to testas.txt
+
+Question 6:
+What's the difference between removing files and removing directories?
+# Files are removed with the rm command while directories are always removed with
+ the rmdir command.
+# Files and directories are both removed with the rm -f command.
+# Files are removed with the rm command, while directories need to have the
+ rm -r flag so it recursively deletes file contents.
+# Files are removed with the rm command, while directories need to have the
+rm -f flag so it forces deletion of all its children.
