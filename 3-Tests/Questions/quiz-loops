@@ -25,3 +25,12 @@ What numbers does the range(8,0,-2) generate:
 # 0,2,4,6
 # 8,6,4,2,0
 
+Question 5:
+What does the following loop do?
+i = 1
+while i < 5:
+  i + i
+  print(i)
+# Prints 1,2,3,4 and then exits
+# Prints 1,2,4 and then exits
+# Prints 1 forever
