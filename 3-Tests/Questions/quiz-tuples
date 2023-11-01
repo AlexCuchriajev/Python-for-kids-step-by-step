@@ -1,0 +1,15 @@
+Question 1:
+Which of the following IS NOT correct in relation with tuples?
+# You can loop over them using a for loop
+# You can add values to a tuple
+# You can use the count() method with tuples
+# You can use the index() metho with tuples
+
+Question 2:
+How we can remove values from a tuple?
+# Using remove() method
+# Using pop() method
+# It's not possible as tuples are immutable
+# Using del keyword
+
+
