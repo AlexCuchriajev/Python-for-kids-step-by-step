@@ -1,0 +1,8 @@
+Question 1:
+Which of the following IS NOT correct in relation with tuples?
+# You can add values to a tuple *
+
+Question 2:
+How we can remove values from a tuple?
+# It's not possible as tuples are immutable *
+
